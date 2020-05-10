@@ -1,0 +1,13 @@
+C:\Users\Chan\source\repos\Chapter1\Chapter1\bin\Debug\netcoreapp3.1\Chapter1.exe
+C:\Users\Chan\source\repos\Chapter1\Chapter1\bin\Debug\netcoreapp3.1\Chapter1.deps.json
+C:\Users\Chan\source\repos\Chapter1\Chapter1\bin\Debug\netcoreapp3.1\Chapter1.runtimeconfig.json
+C:\Users\Chan\source\repos\Chapter1\Chapter1\bin\Debug\netcoreapp3.1\Chapter1.runtimeconfig.dev.json
+C:\Users\Chan\source\repos\Chapter1\Chapter1\bin\Debug\netcoreapp3.1\Chapter1.dll
+C:\Users\Chan\source\repos\Chapter1\Chapter1\bin\Debug\netcoreapp3.1\Chapter1.pdb
+C:\Users\Chan\source\repos\Chapter1\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.csprojAssemblyReference.cache
+C:\Users\Chan\source\repos\Chapter1\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.csproj.CoreCompileInputs.cache
+C:\Users\Chan\source\repos\Chapter1\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.AssemblyInfoInputs.cache
+C:\Users\Chan\source\repos\Chapter1\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.AssemblyInfo.cs
+C:\Users\Chan\source\repos\Chapter1\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.dll
+C:\Users\Chan\source\repos\Chapter1\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.pdb
+C:\Users\Chan\source\repos\Chapter1\Chapter1\obj\Debug\netcoreapp3.1\Chapter1.genruntimeconfig.cache
