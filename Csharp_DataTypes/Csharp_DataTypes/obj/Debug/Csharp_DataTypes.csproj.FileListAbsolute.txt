@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_DataTypes/Csharp_DataTypes/bin/Debug/Csharp_DataTypes.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_DataTypes/Csharp_DataTypes/bin/Debug/Csharp_DataTypes.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_DataTypes/Csharp_DataTypes/obj/Debug/Csharp_DataTypes.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_DataTypes/Csharp_DataTypes/obj/Debug/Csharp_DataTypes.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_DataTypes/Csharp_DataTypes/obj/Debug/Csharp_DataTypes.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_DataTypes/Csharp_DataTypes/obj/Debug/Csharp_DataTypes.pdb
