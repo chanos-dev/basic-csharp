@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5E43CD1E-D3DB-4BDE-B931-955483EE8629}|Default">
+  <MonoDevelop.Ide.ItemProperties.Csharp__TypeCastingAndOperators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp_TypeCastingAndOperators/Program.cs">
+    <Files>
+      <File FileName="Csharp_TypeCastingAndOperators/Program.cs" Line="79" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp_TypeCastingAndOperators" expanded="True">
+            <Node name="Csharp_TypeCastingAndOperators" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
