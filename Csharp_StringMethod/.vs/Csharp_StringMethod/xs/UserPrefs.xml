@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8E643F87-884C-42EE-91F6-73E410EB7995}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp_StringMethod/Program.cs">
+    <Files>
+      <File FileName="Csharp_StringMethod/Program.cs" Line="43" Column="86" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp_StringMethod" expanded="True">
+            <Node name="Csharp_StringMethod" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Csharp__StringMethod PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

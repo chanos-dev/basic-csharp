@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_StringMethod/Csharp_StringMethod/bin/Debug/Csharp_StringMethod.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_StringMethod/Csharp_StringMethod/bin/Debug/Csharp_StringMethod.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_StringMethod/Csharp_StringMethod/obj/Debug/Csharp_StringMethod.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_StringMethod/Csharp_StringMethod/obj/Debug/Csharp_StringMethod.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_StringMethod/Csharp_StringMethod/obj/Debug/Csharp_StringMethod.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_StringMethod/Csharp_StringMethod/obj/Debug/Csharp_StringMethod.pdb
