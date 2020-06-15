@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0E337629-C8C3-4B4F-930D-98D049BFC87B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp_if_switch/Program.cs">
+    <Files>
+      <File FileName="Csharp_if_switch/Program.cs" Line="11" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp_if_switch" expanded="True">
+            <Node name="Csharp_if_switch" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Csharp__if__switch FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

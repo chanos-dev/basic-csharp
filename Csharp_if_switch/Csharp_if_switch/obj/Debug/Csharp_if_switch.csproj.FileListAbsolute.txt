@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_if_switch/Csharp_if_switch/bin/Debug/Csharp_if_switch.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_if_switch/Csharp_if_switch/bin/Debug/Csharp_if_switch.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_if_switch/Csharp_if_switch/obj/Debug/Csharp_if_switch.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_if_switch/Csharp_if_switch/obj/Debug/Csharp_if_switch.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_if_switch/Csharp_if_switch/obj/Debug/Csharp_if_switch.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_if_switch/Csharp_if_switch/obj/Debug/Csharp_if_switch.pdb
