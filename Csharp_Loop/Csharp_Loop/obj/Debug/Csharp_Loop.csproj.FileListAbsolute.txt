@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Loop/Csharp_Loop/bin/Debug/Csharp_Loop.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Loop/Csharp_Loop/bin/Debug/Csharp_Loop.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Loop/Csharp_Loop/obj/Debug/Csharp_Loop.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Loop/Csharp_Loop/obj/Debug/Csharp_Loop.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Loop/Csharp_Loop/obj/Debug/Csharp_Loop.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Loop/Csharp_Loop/obj/Debug/Csharp_Loop.pdb
