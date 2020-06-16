@@ -11,3 +11,5 @@
 >0x04 if_switch - [Csharp_if_switch](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_if_switch)
 >
 >0x05 Loop(for, while, do while, foreach) - [Csharp_Loop](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_Loop)
+>
+>0x06 Method - [Csharp_method](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_method)
