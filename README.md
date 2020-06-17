@@ -13,3 +13,5 @@
 >0x05 Loop(for, while, do while, foreach) - [Csharp_Loop](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_Loop)
 >
 >0x06 Method - [Csharp_method](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_method)
+>
+>0x07 Class - [Csharp_Class](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_Class)
