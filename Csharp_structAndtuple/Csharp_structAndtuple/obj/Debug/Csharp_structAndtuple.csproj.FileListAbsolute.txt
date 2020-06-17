@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_structAndtuple/Csharp_structAndtuple/bin/Debug/Csharp_structAndtuple.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_structAndtuple/Csharp_structAndtuple/bin/Debug/Csharp_structAndtuple.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_structAndtuple/Csharp_structAndtuple/obj/Debug/Csharp_structAndtuple.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_structAndtuple/Csharp_structAndtuple/obj/Debug/Csharp_structAndtuple.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_structAndtuple/Csharp_structAndtuple/obj/Debug/Csharp_structAndtuple.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_structAndtuple/Csharp_structAndtuple/obj/Debug/Csharp_structAndtuple.pdb

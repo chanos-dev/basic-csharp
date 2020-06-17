@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0AE6E42A-0FAE-4847-9203-F548E1FF35FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp_structAndtuple/Program.cs">
+    <Files>
+      <File FileName="Csharp_structAndtuple/Program.cs" Line="41" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp_structAndtuple" expanded="True">
+            <Node name="Csharp_structAndtuple" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Csharp__structAndtuple PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

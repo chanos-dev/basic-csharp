@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_structAndtuple", "Csharp_structAndtuple\Csharp_structAndtuple.csproj", "{0AE6E42A-0FAE-4847-9203-F548E1FF35FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE6E42A-0FAE-4847-9203-F548E1FF35FF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0AE6E42A-0FAE-4847-9203-F548E1FF35FF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0AE6E42A-0FAE-4847-9203-F548E1FF35FF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0AE6E42A-0FAE-4847-9203-F548E1FF35FF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

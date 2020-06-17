@@ -15,3 +15,5 @@
 >0x06 Method - [Csharp_method](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_method)
 >
 >0x07 Class - [Csharp_Class](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_Class)
+>
+>0x08 structAndtuple - [Csharp_structAndtuple](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_structAndtuple)
