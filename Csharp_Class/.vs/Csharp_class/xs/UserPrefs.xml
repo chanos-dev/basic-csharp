@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A1E32BD2-9FD9-4845-AE2C-0F0FC5758584}|Default">
+  <MonoDevelop.Ide.ItemProperties.Csharp__class PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Csharp__Otherclass FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp_class/Program.cs">
+    <Files>
+      <File FileName="Csharp_class/Program.cs" Line="60" Column="33" />
+      <File FileName="Csharp_Otherclass/Program.cs" Line="13" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp_class" expanded="True">
+            <Node name="Csharp_class" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Csharp_Otherclass" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

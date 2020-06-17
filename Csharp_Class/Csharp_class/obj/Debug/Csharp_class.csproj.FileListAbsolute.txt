@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Class/Csharp_class/bin/Debug/Csharp_class.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Class/Csharp_class/bin/Debug/Csharp_class.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Class/Csharp_class/obj/Debug/Csharp_class.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Class/Csharp_class/obj/Debug/Csharp_class.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Class/Csharp_class/obj/Debug/Csharp_class.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Class/Csharp_class/obj/Debug/Csharp_class.pdb

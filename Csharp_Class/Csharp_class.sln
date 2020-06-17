@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_class", "Csharp_class\Csharp_class.csproj", "{A1E32BD2-9FD9-4845-AE2C-0F0FC5758584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Otherclass", "Csharp_Otherclass\Csharp_Otherclass.csproj", "{EEB9F587-C66D-44D1-9640-96CC84413EB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E32BD2-9FD9-4845-AE2C-0F0FC5758584}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A1E32BD2-9FD9-4845-AE2C-0F0FC5758584}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A1E32BD2-9FD9-4845-AE2C-0F0FC5758584}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A1E32BD2-9FD9-4845-AE2C-0F0FC5758584}.Release|anycpu.Build.0 = Release|anycpu
+		{EEB9F587-C66D-44D1-9640-96CC84413EB4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EEB9F587-C66D-44D1-9640-96CC84413EB4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EEB9F587-C66D-44D1-9640-96CC84413EB4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EEB9F587-C66D-44D1-9640-96CC84413EB4}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
