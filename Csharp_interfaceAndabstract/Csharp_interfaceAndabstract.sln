@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_interfaceAndabstract", "Csharp_interfaceAndabstract\Csharp_interfaceAndabstract.csproj", "{B16AECAB-9C7F-4E9D-8492-408D2C3FC744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B16AECAB-9C7F-4E9D-8492-408D2C3FC744}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B16AECAB-9C7F-4E9D-8492-408D2C3FC744}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B16AECAB-9C7F-4E9D-8492-408D2C3FC744}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B16AECAB-9C7F-4E9D-8492-408D2C3FC744}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

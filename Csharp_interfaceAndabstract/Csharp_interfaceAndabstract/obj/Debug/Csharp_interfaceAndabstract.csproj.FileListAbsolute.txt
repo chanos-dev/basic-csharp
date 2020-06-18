@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_interfaceAndabstract/Csharp_interfaceAndabstract/bin/Debug/Csharp_interfaceAndabstract.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_interfaceAndabstract/Csharp_interfaceAndabstract/bin/Debug/Csharp_interfaceAndabstract.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_interfaceAndabstract/Csharp_interfaceAndabstract/obj/Debug/Csharp_interfaceAndabstract.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_interfaceAndabstract/Csharp_interfaceAndabstract/obj/Debug/Csharp_interfaceAndabstract.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_interfaceAndabstract/Csharp_interfaceAndabstract/obj/Debug/Csharp_interfaceAndabstract.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_interfaceAndabstract/Csharp_interfaceAndabstract/obj/Debug/Csharp_interfaceAndabstract.pdb
