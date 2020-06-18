@@ -1,6 +1,7 @@
 ---
-### C# Programing 8-)
+### C# Programing :)
 ##### I'm writing basic C# syntax on here based on a book called "ThisisCsharp".
+##### study environment : `Visual Studio for Mac`
 ---
 >0x01 Data types - [Csharp_DataTypes](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_DataTypes)
 >
