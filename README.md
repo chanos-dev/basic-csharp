@@ -20,3 +20,5 @@
 >0x08 structAndtuple - [Csharp_structAndtuple](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_structAndtuple)
 >
 >0x09 interfaceAndabstract - [Csharp_interfaceAndabstract](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_interfaceAndabstract)
+>
+>0x0A Property - [Csharp_Property](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_Property)

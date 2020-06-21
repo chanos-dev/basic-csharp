@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_property/Csharp_property/bin/Debug/Csharp_property.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_property/Csharp_property/bin/Debug/Csharp_property.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_property/Csharp_property/obj/Debug/Csharp_property.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_property/Csharp_property/obj/Debug/Csharp_property.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_property/Csharp_property/obj/Debug/Csharp_property.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_property/Csharp_property/obj/Debug/Csharp_property.pdb
