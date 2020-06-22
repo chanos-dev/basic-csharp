@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_collectionAndindexer/Csharp_collectionAndindexer/bin/Debug/Csharp_collectionAndindexer.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_collectionAndindexer/Csharp_collectionAndindexer/bin/Debug/Csharp_collectionAndindexer.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_collectionAndindexer/Csharp_collectionAndindexer/obj/Debug/Csharp_collectionAndindexer.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_collectionAndindexer/Csharp_collectionAndindexer/obj/Debug/Csharp_collectionAndindexer.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_collectionAndindexer/Csharp_collectionAndindexer/obj/Debug/Csharp_collectionAndindexer.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_collectionAndindexer/Csharp_collectionAndindexer/obj/Debug/Csharp_collectionAndindexer.pdb
