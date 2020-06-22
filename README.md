@@ -21,4 +21,6 @@
 >
 >0x09 interfaceAndabstract - [Csharp_interfaceAndabstract](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_interfaceAndabstract)
 >
->0x0A Property - [Csharp_Property](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_Property)
+>0x0A Property - [Csharp_Property](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_property)
+>
+>0x0B array - [Csharp_array](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_array)

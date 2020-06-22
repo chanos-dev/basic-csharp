@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{244E8A5B-4C1B-4251-8FAC-015C00D56265}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp_collectionAndindexer/Program.cs">
+    <Files>
+      <File FileName="Csharp_collectionAndindexer/Program.cs" Line="77" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp_array" expanded="True">
+            <Node name="Csharp_array" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Csharp__array PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
