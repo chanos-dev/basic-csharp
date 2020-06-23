@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_exception/Csharp_exception/obj/Debug/Csharp_exception.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_exception/Csharp_exception/obj/Debug/Csharp_exception.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_exception/Csharp_exception/bin/Debug/Csharp_exception.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_exception/Csharp_exception/bin/Debug/Csharp_exception.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_exception/Csharp_exception/obj/Debug/Csharp_exception.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_exception/Csharp_exception/obj/Debug/Csharp_exception.pdb

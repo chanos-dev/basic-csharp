@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F59E31A6-01EF-4A88-8BDA-5E6AA8285D37}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp_exception/Program.cs">
+    <Files>
+      <File FileName="Csharp_exception/Program.cs" Line="31" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp_exception" expanded="True">
+            <Node name="Csharp_exception" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Csharp__exception PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -28,3 +28,5 @@
 >0x0C collectionAndindexer - [Csharp_collectionAndindexer](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_collectionAndindexer)
 >
 >0x0D Generic - [Csharp_generic](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_generic)
+>
+>0x0E Exception - [Csharp_exception](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_exception)
