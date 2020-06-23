@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_generic/Csharp_generic/bin/Debug/Csharp_generic.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_generic/Csharp_generic/bin/Debug/Csharp_generic.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_generic/Csharp_generic/obj/Debug/Csharp_generic.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_generic/Csharp_generic/obj/Debug/Csharp_generic.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_generic/Csharp_generic/obj/Debug/Csharp_generic.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_generic/Csharp_generic/obj/Debug/Csharp_generic.pdb

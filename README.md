@@ -26,3 +26,5 @@
 >0x0B array - [Csharp_array](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_array)
 >
 >0x0C collectionAndindexer - [Csharp_collectionAndindexer](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_collectionAndindexer)
+>
+>0x0D Generic - [Csharp_generic](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_generic)
