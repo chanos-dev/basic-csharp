@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_lambda/Csharp_lambda/bin/Debug/Csharp_lambda.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_lambda/Csharp_lambda/bin/Debug/Csharp_lambda.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_lambda/Csharp_lambda/obj/Debug/Csharp_lambda.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_lambda/Csharp_lambda/obj/Debug/Csharp_lambda.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_lambda/Csharp_lambda/obj/Debug/Csharp_lambda.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_lambda/Csharp_lambda/obj/Debug/Csharp_lambda.pdb

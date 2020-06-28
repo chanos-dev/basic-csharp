@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_lambda", "Csharp_lambda\Csharp_lambda.csproj", "{FA031630-7C02-4B21-9057-5D0999A936AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA031630-7C02-4B21-9057-5D0999A936AF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FA031630-7C02-4B21-9057-5D0999A936AF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FA031630-7C02-4B21-9057-5D0999A936AF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FA031630-7C02-4B21-9057-5D0999A936AF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

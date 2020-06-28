@@ -32,3 +32,5 @@
 >0x0E Exception - [Csharp_exception](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_exception)
 >
 >0x0F delegateAndevent - [Csharp_delegateAndevent](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_delegateAndevent)
+>
+>0x10 Lambda - [Csharp_lambda](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_lambda)
