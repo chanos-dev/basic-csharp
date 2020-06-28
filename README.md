@@ -30,3 +30,5 @@
 >0x0D Generic - [Csharp_generic](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_generic)
 >
 >0x0E Exception - [Csharp_exception](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_exception)
+>
+>0x0F delegateAndevent - [Csharp_delegateAndevent](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_delegateAndevent)

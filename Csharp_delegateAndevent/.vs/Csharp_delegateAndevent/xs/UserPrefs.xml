@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3D6DF051-DAEC-4901-9BA3-7ABFE154293C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Csharp__delegateAndevent PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp_delegateAndevent/Program.cs">
+    <Files>
+      <File FileName="Csharp_delegateAndevent/Program.cs" Line="48" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp_delegateAndevent" expanded="True">
+            <Node name="Csharp_delegateAndevent" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

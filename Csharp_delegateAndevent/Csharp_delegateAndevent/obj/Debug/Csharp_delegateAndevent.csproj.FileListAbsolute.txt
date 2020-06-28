@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_delegateAndevent/Csharp_delegateAndevent/bin/Debug/Csharp_delegateAndevent.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_delegateAndevent/Csharp_delegateAndevent/bin/Debug/Csharp_delegateAndevent.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_delegateAndevent/Csharp_delegateAndevent/obj/Debug/Csharp_delegateAndevent.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_delegateAndevent/Csharp_delegateAndevent/obj/Debug/Csharp_delegateAndevent.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_delegateAndevent/Csharp_delegateAndevent/obj/Debug/Csharp_delegateAndevent.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_delegateAndevent/Csharp_delegateAndevent/obj/Debug/Csharp_delegateAndevent.pdb
