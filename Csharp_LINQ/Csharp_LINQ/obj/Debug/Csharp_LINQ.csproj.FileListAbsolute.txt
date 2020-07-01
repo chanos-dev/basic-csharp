@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_LINQ/Csharp_LINQ/bin/Debug/Csharp_LINQ.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_LINQ/Csharp_LINQ/bin/Debug/Csharp_LINQ.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_LINQ/Csharp_LINQ/obj/Debug/Csharp_LINQ.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_LINQ/Csharp_LINQ/obj/Debug/Csharp_LINQ.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_LINQ/Csharp_LINQ/obj/Debug/Csharp_LINQ.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_LINQ/Csharp_LINQ/obj/Debug/Csharp_LINQ.pdb

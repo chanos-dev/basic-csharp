@@ -34,3 +34,5 @@
 >0x0F delegateAndevent - [Csharp_delegateAndevent](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_delegateAndevent)
 >
 >0x10 Lambda - [Csharp_lambda](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_lambda)
+>
+>0x11 LINQ - [Csharp_LINQ](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_LINQ)
