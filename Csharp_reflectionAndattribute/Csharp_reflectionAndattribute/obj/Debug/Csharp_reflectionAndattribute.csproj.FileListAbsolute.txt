@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_reflectionAndattribute/Csharp_reflectionAndattribute/obj/Debug/Csharp_reflectionAndattribute.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_reflectionAndattribute/Csharp_reflectionAndattribute/obj/Debug/Csharp_reflectionAndattribute.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_reflectionAndattribute/Csharp_reflectionAndattribute/bin/Debug/Csharp_reflectionAndattribute.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_reflectionAndattribute/Csharp_reflectionAndattribute/bin/Debug/Csharp_reflectionAndattribute.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_reflectionAndattribute/Csharp_reflectionAndattribute/obj/Debug/Csharp_reflectionAndattribute.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_reflectionAndattribute/Csharp_reflectionAndattribute/obj/Debug/Csharp_reflectionAndattribute.pdb

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_reflectionAndattribute", "Csharp_reflectionAndattribute\Csharp_reflectionAndattribute.csproj", "{FD4091E1-0597-451D-9ADF-EC0CC8B2CD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4091E1-0597-451D-9ADF-EC0CC8B2CD8C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FD4091E1-0597-451D-9ADF-EC0CC8B2CD8C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FD4091E1-0597-451D-9ADF-EC0CC8B2CD8C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FD4091E1-0597-451D-9ADF-EC0CC8B2CD8C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
