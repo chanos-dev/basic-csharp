@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{24186611-CEE2-44FD-A174-9C66644F2FE9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp_dynamic/Program.cs">
+    <Files>
+      <File FileName="Csharp_dynamic/Program.cs" Line="37" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp_dynamic" expanded="True">
+            <Node name="Csharp_dynamic" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Csharp__dynamic PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

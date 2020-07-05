@@ -38,3 +38,5 @@
 >0x11 LINQ - [Csharp_LINQ](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_LINQ)
 >
 >0x12 ReflectionAndAttribute - [Csharp_reflectionAndattribute](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_reflectionAndattribute)
+>
+>0x13 Dynamic - [Charp_dynamic](https://github.com/chanos-dev/basic-csharp/tree/master/Charp_dynamic)

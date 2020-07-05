@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_dynamic/Csharp_dynamic/bin/Debug/Csharp_dynamic.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_dynamic/Csharp_dynamic/bin/Debug/Csharp_dynamic.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_dynamic/Csharp_dynamic/obj/Debug/Csharp_dynamic.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_dynamic/Csharp_dynamic/obj/Debug/Csharp_dynamic.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_dynamic/Csharp_dynamic/obj/Debug/Csharp_dynamic.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_dynamic/Csharp_dynamic/obj/Debug/Csharp_dynamic.pdb
