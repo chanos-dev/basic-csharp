@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CADB38CD-0CE3-4261-9A08-9A6308098F97}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp_Thread/Program.cs">
+    <Files>
+      <File FileName="Csharp_Thread/Program.cs" Line="17" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp_Thread" expanded="True">
+            <Node name="Csharp_Thread" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Csharp__Thread PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

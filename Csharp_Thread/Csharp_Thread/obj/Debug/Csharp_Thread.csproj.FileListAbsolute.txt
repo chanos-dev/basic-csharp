@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Thread/Csharp_Thread/bin/Debug/Csharp_Thread.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Thread/Csharp_Thread/bin/Debug/Csharp_Thread.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Thread/Csharp_Thread/obj/Debug/Csharp_Thread.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Thread/Csharp_Thread/obj/Debug/Csharp_Thread.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Thread/Csharp_Thread/obj/Debug/Csharp_Thread.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Thread/Csharp_Thread/obj/Debug/Csharp_Thread.pdb
