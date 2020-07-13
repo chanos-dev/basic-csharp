@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Task", "Csharp_Task\Csharp_Task.csproj", "{6B842C38-5717-495B-9B50-BFF454B42EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B842C38-5717-495B-9B50-BFF454B42EC8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6B842C38-5717-495B-9B50-BFF454B42EC8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6B842C38-5717-495B-9B50-BFF454B42EC8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6B842C38-5717-495B-9B50-BFF454B42EC8}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

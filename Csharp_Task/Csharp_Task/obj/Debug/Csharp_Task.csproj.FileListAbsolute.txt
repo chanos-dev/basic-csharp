@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Task/Csharp_Task/bin/Debug/Csharp_Task.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Task/Csharp_Task/bin/Debug/Csharp_Task.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Task/Csharp_Task/obj/Debug/Csharp_Task.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Task/Csharp_Task/obj/Debug/Csharp_Task.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Task/Csharp_Task/obj/Debug/Csharp_Task.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Task/Csharp_Task/obj/Debug/Csharp_Task.pdb
