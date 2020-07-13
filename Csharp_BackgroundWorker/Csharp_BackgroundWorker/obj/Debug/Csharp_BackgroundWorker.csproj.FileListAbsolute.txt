@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_BackgroundWorker/Csharp_BackgroundWorker/bin/Debug/Csharp_BackgroundWorker.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_BackgroundWorker/Csharp_BackgroundWorker/bin/Debug/Csharp_BackgroundWorker.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_BackgroundWorker/Csharp_BackgroundWorker/obj/Debug/Csharp_BackgroundWorker.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_BackgroundWorker/Csharp_BackgroundWorker/obj/Debug/Csharp_BackgroundWorker.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_BackgroundWorker/Csharp_BackgroundWorker/obj/Debug/Csharp_BackgroundWorker.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_BackgroundWorker/Csharp_BackgroundWorker/obj/Debug/Csharp_BackgroundWorker.pdb

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2551913D-6842-475F-8384-14392F3D5C45}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp_BackgroundWorker/Program.cs">
+    <Files>
+      <File FileName="Csharp_BackgroundWorker/Program.cs" Line="31" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp_BackgroundWorker" expanded="True">
+            <Node name="Csharp_BackgroundWorker" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Csharp__BackgroundWorker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
