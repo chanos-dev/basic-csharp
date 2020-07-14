@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Parallel", "Csharp_Parallel\Csharp_Parallel.csproj", "{FB4A461F-4E0E-4E3B-BAA7-D87E7FDC3851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB4A461F-4E0E-4E3B-BAA7-D87E7FDC3851}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FB4A461F-4E0E-4E3B-BAA7-D87E7FDC3851}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FB4A461F-4E0E-4E3B-BAA7-D87E7FDC3851}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FB4A461F-4E0E-4E3B-BAA7-D87E7FDC3851}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

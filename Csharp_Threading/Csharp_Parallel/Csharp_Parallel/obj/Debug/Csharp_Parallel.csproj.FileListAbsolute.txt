@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Parallel/Csharp_Parallel/bin/Debug/Csharp_Parallel.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Parallel/Csharp_Parallel/bin/Debug/Csharp_Parallel.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Parallel/Csharp_Parallel/obj/Debug/Csharp_Parallel.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Parallel/Csharp_Parallel/obj/Debug/Csharp_Parallel.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Parallel/Csharp_Parallel/obj/Debug/Csharp_Parallel.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_Parallel/Csharp_Parallel/obj/Debug/Csharp_Parallel.pdb
