@@ -41,8 +41,10 @@
 >
 >0x13 Dynamic - [Csharp_dynamic](https://github.com/chanos-dev/basic-csharp/tree/master/Charp_dynamic)
 >
->0x14 Thread - [Csharp_Thread](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_Thread)
+>0x14 Thread - [Csharp_Thread](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_Threading/Csharp_Thread)
 >
->0x15 BackgroundWorker - [Csharp_BackgroundWorker](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_BackgroundWorker)
+>0x15 BackgroundWorker - [Csharp_BackgroundWorker](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_Threading/Csharp_BackgroundWorker)
 >
->0x16 Task - [Csharp_Task](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_Task)
+>0x16 Task - [Csharp_Task](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_Threading/Csharp_Task)
+>
+>0x17 Parallel - [Csharp_Parallel](https://github.com/chanos-dev/basic-csharp/tree/master/Csharp_Threading/Csharp_Parallel)
