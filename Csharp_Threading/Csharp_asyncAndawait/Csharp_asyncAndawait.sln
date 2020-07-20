@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_asyncAndawait", "Csharp_asyncAndawait\Csharp_asyncAndawait.csproj", "{3B211AC5-AEEC-4035-8CD8-3F610402EE37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B211AC5-AEEC-4035-8CD8-3F610402EE37}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3B211AC5-AEEC-4035-8CD8-3F610402EE37}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3B211AC5-AEEC-4035-8CD8-3F610402EE37}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3B211AC5-AEEC-4035-8CD8-3F610402EE37}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

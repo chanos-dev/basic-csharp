@@ -1,0 +1,6 @@
+/Users/chanhobaeg/Desktop/github/C#/Csharp_asyncAndawait/Csharp_asyncAndawait/bin/Debug/Csharp_asyncAndawait.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_asyncAndawait/Csharp_asyncAndawait/bin/Debug/Csharp_asyncAndawait.pdb
+/Users/chanhobaeg/Desktop/github/C#/Csharp_asyncAndawait/Csharp_asyncAndawait/obj/Debug/Csharp_asyncAndawait.csprojAssemblyReference.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_asyncAndawait/Csharp_asyncAndawait/obj/Debug/Csharp_asyncAndawait.csproj.CoreCompileInputs.cache
+/Users/chanhobaeg/Desktop/github/C#/Csharp_asyncAndawait/Csharp_asyncAndawait/obj/Debug/Csharp_asyncAndawait.exe
+/Users/chanhobaeg/Desktop/github/C#/Csharp_asyncAndawait/Csharp_asyncAndawait/obj/Debug/Csharp_asyncAndawait.pdb

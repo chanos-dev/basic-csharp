@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3B211AC5-AEEC-4035-8CD8-3F610402EE37}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp_asyncAndawait/Program.cs">
+    <Files>
+      <File FileName="Csharp_asyncAndawait/Program.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp_asyncAndawait" expanded="True">
+            <Node name="Csharp_asyncAndawait" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Csharp__asyncAndawait PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
